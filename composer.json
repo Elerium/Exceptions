@@ -1,0 +1,12 @@
+{
+	"name": "elerium/exceptions",
+	"version": "1.0.0",
+	"require": {
+		"php": ">=5.1.0"
+	},
+	"autoload": {
+		"classmap": [
+			"Elerium/exceptions.php"
+		]
+	}
+}
