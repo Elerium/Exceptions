@@ -8,8 +8,6 @@
 namespace Elerium;
 
 use Elerium;
-use Nette;
-use Doctrine;
 
 class InvalidArgumentException extends \InvalidArgumentException
 {
